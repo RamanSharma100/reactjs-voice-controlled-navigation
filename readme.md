@@ -17,8 +17,8 @@ This web app follows following commands:-
 2. ## `navigate to home` OR `navigate to index` => go to home/index page
 3. ## `go to contact` OR `go to contact us` => go to contact/contact us page
 4. ## `navigate to contact` OR `navigate to contact us` => go to contact/contact us page
-5. ## `go to tutorials` OR `go to tutorials` => go to tutorials/tutorials page
-6. ## `navigate to tutorials` OR `navigate to tutorials` => go to tutorials/tutorials page
+5. ## `go to tutorials` OR `go to tutorial` => go to tutorials/tutorials page
+6. ## `navigate to tutorials` OR `navigate to tutorial` => go to tutorials/tutorials page
 7. ## `go to about` OR `go to about us` => go to about/about us page
 8. ## `navigate to about` OR `navigate to about us` => go to about/about us page
 
